@@ -1,0 +1,7 @@
+C:\Users\zxcvankat\RiderProjects\Paractika2\Paractika2\bin\Debug\Paractika2.exe
+C:\Users\zxcvankat\RiderProjects\Paractika2\Paractika2\bin\Debug\Paractika2.pdb
+C:\Users\zxcvankat\RiderProjects\Paractika2\Paractika2\obj\Debug\Paractika2.csproj.AssemblyReference.cache
+C:\Users\zxcvankat\RiderProjects\Paractika2\Paractika2\obj\Debug\Paractika2.csproj.SuggestedBindingRedirects.cache
+C:\Users\zxcvankat\RiderProjects\Paractika2\Paractika2\obj\Debug\Paractika2.csproj.CoreCompileInputs.cache
+C:\Users\zxcvankat\RiderProjects\Paractika2\Paractika2\obj\Debug\Paractika2.exe
+C:\Users\zxcvankat\RiderProjects\Paractika2\Paractika2\obj\Debug\Paractika2.pdb
